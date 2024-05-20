@@ -7,7 +7,7 @@ import HorizontalBlogCard from "./atoms/horizontalBlogCard";
 
 const useStyles = makeStyles((theme) => ({
   backgroundImageSection: {
-    backgroundImage: "url(images/explore-lores/main.svg)",
+    backgroundImage: "url(images/explore-lores/background.png)",
     minHeight: "calc(100vh)",
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",

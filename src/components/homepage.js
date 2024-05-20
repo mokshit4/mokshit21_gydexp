@@ -7,7 +7,7 @@ import GydesProfileBar from "./atoms/gydesProfileBar";
 
 const useStyles = makeStyles((theme) => ({
   backgroundImageSection: {
-    backgroundImage: "url(images/explore-gydes/main.svg)",
+    backgroundImage: "url(images/explore-gydes/background.png)",
     minHeight: "calc(100vh)",
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
